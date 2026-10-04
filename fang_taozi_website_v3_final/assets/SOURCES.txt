@@ -1,0 +1,47 @@
+IMAGE SOURCES — FANG TAOZI WEBSITE V3
+=====================================
+
+All images depict 方桃子 (Fang Taozi), the AI actor from the short drama
+《被裁掉的女孩》 (The Girl Who Was Fired). They were collected from public
+posts and press coverage and re-cropped for this coursework prototype.
+For a course demo / non-commercial use only — please credit the outlets below
+if the page is shown publicly.
+
+FILE MAP
+--------
+taozi-hero.jpg              645x900   Home hero portrait (beauty editorial look)
+taozi-vlog-01.jpg           900x1024  Works "01 / Sunday morning" — breakfast vlog still
+taozi-vlog-02.jpg           800x1012  Works "02 / Current favourites" — imported still (IMG_8097)
+taozi-vlog-03.jpg           800x1012  Works "03 / Around town" — imported still (IMG_8098)
+cosmo-cover.jpg            1000x1298  FRONTSTAGE campaign block — Cosmopolitan China CRUSH cover
+cosmo-editorial-01.jpg     1000x1321  FRONTSTAGE editorial spread 01 (jewel tone story)
+cosmo-editorial-02.jpg     1000x1332  FRONTSTAGE editorial spread 02 (monochrome story)
+lumi-campaign.jpg          1200x1150  HIDDEN PAGE A exhibit B (the contact-lens campaign visual)
+lumi-campaign-detail.jpg   1080x408   Spare — no longer used on the frontstage
+taozi-avatar.jpg / -180.jpg 512 / 180 Peach avatar — favicon + "Taozi replies" avatar
+evidence-lens-ad.jpg        728x1080  HIDDEN PAGE A — the sponsored contact-lens post
+evidence-profile.jpg        700x1290  HIDDEN PAGE A — account page (follower / like counts)
+evidence-accounts.jpg      1024x690   HIDDEN PAGE B — creator account vs. character accounts
+
+WHERE THEY CAME FROM
+--------------------
+- 澎湃新闻 The Paper — thepaper.cn (portraits, campaign images)
+- 南方+ / 南方网 nfnews.com (portrait editorial)
+- 网易新闻 163.com — 《她一爆火，内娱丑孩子要惨了》 (vlog stills)
+- DoNews donews.com — 《短剧播完就凉?》 (account screenshots)
+- 中国市场监管报 / 中国青年网 / 北京日报 — coverage of the contact-lens case
+- Public Douyin (@方桃子 / @小菲菲 / @桃不掉衡) screenshots as republished
+  in the articles above.
+- taozi-vlog-02.jpg / taozi-vlog-03.jpg — supplied by the project team
+  (IMG_8097 / IMG_8098), re-cropped to the page aspect ratio.
+- cosmo-cover.jpg / cosmo-editorial-01.jpg / cosmo-editorial-02.jpg — supplied
+  by the project team (IMG_8100 / IMG_8101 / IMG_8102). They carry the
+  "時尚 COSMOPOLITAN / CRUSH DIGITAL" masthead. Note: the magazine is named on
+  the frontstage as a *cover credit* only; no commercial relationship is
+  claimed and the coursework does not use the mark as a sponsor.
+
+NOTE ON NAMING
+--------------
+The frontstage featured editorial is the Cosmopolitan China CRUSH cover.
+The contested contact-lens campaign (the fictional brand "LUMI") now appears
+only on the hidden pages, as an exhibit of the accountability case.
